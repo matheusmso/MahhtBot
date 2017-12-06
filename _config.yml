@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: MahhtBot's journey
 description: A story of an attempt at building a nice bot.
-show_downloads: ["false"]
+show_downloads: false
